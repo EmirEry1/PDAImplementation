@@ -1,0 +1,20 @@
+2
+2
+2
+4
+q1 q2 q3 q4
+q1
+q1 q4
+X Y
+X
+0 1
+q1 e e X q2
+q2 0 e Y q2
+q2 1 Y e q3
+q3 1 Y e q3
+q3 e X e q4
+END_OF_TRANSITIONS
+00112
+000111
+00011
+0111
